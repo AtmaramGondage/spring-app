@@ -1,0 +1,3 @@
+String name ="atm";
+String lastName="patil";
+System.out.println(name+lastName);
